@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Self-defined-->
+<!--For mouse buttons-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    Button colour-->
+    <solid android:color="#D3D3D3"/>
+<!--    Rounded corners-->
+    <corners android:radius="12dp"/>
+<!--    Padding around the text inside the button-->
+    <padding
+        android:left="0dp"
+        android:top="0dp"
+        android:right="0dp"
+        android:bottom="0dp"/>
+</shape>

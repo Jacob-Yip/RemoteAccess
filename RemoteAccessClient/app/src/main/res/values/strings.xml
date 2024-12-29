@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoteAccessClient</string>
+    <string name="button_left"> </string>
+    <string name="button_right"> </string>
+    <string name="button_left_description">Button for left-click</string>
+    <string name="button_right_description">Button for right-click</string>
+    <string name="scroll_text"> </string>
+</resources>
